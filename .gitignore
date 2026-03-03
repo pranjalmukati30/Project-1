@@ -1,0 +1,10 @@
+myenv/
+__pycache__/
+.idea/
+*.pyc
+
+
+#myenv/
+#__pycache__/
+#.idea/
+#*.pyc
